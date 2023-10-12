@@ -1,3 +1,14 @@
+#Hydrant Apps
+#New version of electron OBD
+im going to get this to work on macs as well as add some other visual elements and functionality. 
+in the next step of my carreer i would like to focus on dashboard desgin and implementation. this is the first step in that
+1) I will add sections for the data coming in
+2) i will use d3 to create gauges
+3) i will use threejs to show models of the cars. Euro Only for now
+4) i will create a cross platform fully deployable package
+5) i will create files that can be written to the ECU for "stage 1 tunes"
+
+
 # ElectronOBD
 #### Demo video: https://www.youtube.com/watch?v=pkEYJG_9p7k
 ## What is it
